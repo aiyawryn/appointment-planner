@@ -23,6 +23,7 @@ A responsive React application for managing contacts and scheduling appointments
 
 ## 📁 Project Structure
 
+```
 src/
 ├── components/
 │ ├── appointmentForm/
@@ -36,6 +37,7 @@ src/
 ├── components/root/
 │ └── Root.js
 └── App.js
+```
 
 ## 🛠️ How to Run
 
